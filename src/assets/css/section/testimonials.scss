@@ -1,0 +1,50 @@
+.testimonials {
+    padding-top: 110px;
+    padding-bottom: 60px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    .title {
+        margin: 0 auto 35px;
+        text-align: center;
+        width: 724px;
+        font-family: $g-font-family-base;
+        font-size: 1.5rem;
+        line-height: 1;
+        font-weight: 400;
+        font-style: italic;
+        letter-spacing: 0.025em;
+        color: $g-color-primary;
+    }
+    .name {
+        margin-bottom: 110px;
+        text-align: center;
+        font-family: $g-font-family-alt;
+        font-size: 0.875rem;
+        line-height: 1;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.025em;
+        color: $g-color-primary;
+    }
+    .slick-dots {
+        .slick-active button {
+            border-radius: 50%;
+            padding: 0;
+            list-style: none;
+            border: none;
+            width: 10px;
+            height: 10px;
+            background-color: #ffffff;
+        }
+        li button {
+            border-radius: 50%;
+            width: 6px;
+            height: 6px;
+            background-color: #5b5b5b;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+    }
+}

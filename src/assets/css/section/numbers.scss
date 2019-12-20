@@ -1,0 +1,18 @@
+.numbers {
+    padding: 90px 0;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    .box {
+        display: flex;
+        flex-wrap: wrap;
+        .icon {
+            display: block;
+            margin-top: 10px;
+            margin-right: 18px;
+        }
+        .subtitle-alt {
+            margin-left: 57px;
+        }
+    }
+}

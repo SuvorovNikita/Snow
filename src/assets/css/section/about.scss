@@ -1,0 +1,17 @@
+.about {
+    background-color: $g-color-body-alt;
+    padding: 95px 0;
+    .title {
+        text-align: center;
+        margin-bottom: 34px;
+    }
+    .subtitle {
+        margin: 0 auto 37px;
+        text-align: center;
+        width: 802px;
+    }
+    .signature {
+        display: block;
+        margin: 0 auto;
+    }
+}

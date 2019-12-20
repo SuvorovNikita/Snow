@@ -1,0 +1,19 @@
+// Colors
+$g-color-primary: #FFFFFF;
+$g-color-body: #171717;
+$g-color-secondary:#5f5f5f;
+$g-color-body-alt:#f6f6f6;
+// Global Values
+$g-value-padding: 20px;
+$g-value-border-radius: 2px;
+$g-value-animation-duration: .15s;
+$g-value-animation-function: 'ease';
+$g-value-transition: $g-value-animation-duration $g-value-animation-function;
+$g-value-border-radius: 0px;
+// Global Fonts
+$font-family: 'Roboto',
+sans-serif;
+$g-font-family-base:'Playfair Display',
+serif;
+$g-font-family-alt:'Work Sans',
+sans-serif;
